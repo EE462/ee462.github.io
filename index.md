@@ -1,11 +1,11 @@
-# Hello World of EE462
-<!-- This is your proof of submission to lab 8 --->
+<!-- # Hello World of EE462 -->
+<!-- This is your proof of submission to lab 8 -->
 
 
 
 ## Project 8 - Introduction to version control using **git** & **Github**
 For this lab you will add some simple changes to this git repository (https://ee462.github.io){:target="blank"}.
-The changes consists of adding a link to a website of your preference. Your entry will be added at the end of this page in the [Contributions section](https://github.com/EE462/ee462.github.io/blob/master/index.md#add-your-contributions-below).
+The changes consists of adding a link to a website of your preference. Your entry will be added at the end of this page in the [contributions section](https://github.com/EE462/ee462.github.io/blob/master/index.md###contributions) below.
 
 You must follow the Github [Markdown](https://guides.github.com/features/mastering-markdown/){:target="blank"} syntax when adding your changes.
 
@@ -22,11 +22,12 @@ For this lab, you must complete the following steps using the command line:
 4. Push the changes to the original *git* repo hosted by *Github*
 
 
-# Submission:
+### Submission:
 In addition to modifying this repo to add a link to your website of preference, you must save your work as **lab7** in your _ee462_ directory in your AFS file space.This file should include all the **git** commands used in this lab.
 
 
-
-
-## Add your contributions below:
+### Contributions:
+Add a link to your website of choice by following the _markdown_ sysntax.
 [gtorres](https://people.clarkson.edu/~ee462){:target="_blank"} 
+
+
