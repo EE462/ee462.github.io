@@ -1,14 +1,9 @@
-# Hello World of EE462 
-<!--This is your proof of submission to lab 7 -->
+<!-- # Hello World of EE462 -->
+<!-- This is your proof of submission to lab 7 -->
 
 
 
-## Link to Projects:
-[Lab 7 - Introduction to version control using git & Github](https://ee462.github.io/lab7)
-
-
-<!--
-
+## Project 7 - Introduction to version control using **git** & **Github**
 For this lab you will add some simple changes to this git repository (https://ee462.github.io).
 The changes consists of adding a link to a website of your preference. Your entry will be added at the end of this page in the **Contributions** section at the end of this page.
 
@@ -35,7 +30,5 @@ In addition to modifying this repo to add a link to your website of preference, 
 Add an entry with your username and a link to your website of choice by following the [markdown](https://guides.github.com/features/mastering-markdown/) sysntax.
 
 gtorres: [ee462 polaris's link](https://people.clarkson.edu/~ee462){:target="_blank"} 
-
--->
 
 
