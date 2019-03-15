@@ -30,6 +30,7 @@ In addition to modifying this repo to add a link to your website of preference, 
 Add an entry with your username and a link to your website of choice by following the [markdown](https://guides.github.com/features/mastering-markdown/) syntax.
 
 gtorres: [ee462 polaris's link](https://people.clarkson.edu/~ee462) 
+borreltj: [Da Best Websites](https://people.clarkson.edu/~borreltj) 
 
 clappdj: [clarkson](https://clarkson.edu)
 
