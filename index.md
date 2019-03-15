@@ -4,22 +4,22 @@
 
 
 ## Project 8 - Introduction to version control using **git** & **Github**
-For this lab you will add some simple changes to this git repository (https://ee462.github.io){:target="blank"}.
-The changes consists of adding a link to a website of your preference. Your entry will be added at the end of this page in the [contributions section](https://github.com/EE462/ee462.github.io/blob/master/index.md###contributions) below.
+For this lab you will add some simple changes to this git repository (https://ee462.github.io).
+The changes consists of adding a link to a website of your preference. Your entry will be added at the end of this page in the [contributions section](https://github.com/EE462/ee462.github.io/blob/master/index.md###contributions).
 
-You must follow the Github [Markdown](https://guides.github.com/features/mastering-markdown/){:target="blank"} syntax when adding your changes.
+You must follow the Github [Markdown](https://guides.github.com/features/mastering-markdown/){:target=_"blank"} syntax when adding your changes.
 
 Although you can link to any website that you like, you are encourage to add a link to your personal website. If you don't have one, maybe it's time for you to create one! Take advantage of: 
-* [github pages](https://pages.github.com/)
+* [github pages](https://pages.github.com/){:target=_"blank"}
 * Clarkson's own web hosting services. This is automaticaly enabled by placing your webpage files (i.e. _index.html_) in you *public_html* directory inside your polaris home directory.
 
 
 
 For this lab, you must complete the following steps using the command line:
-1. Clone this repository to you local machine
-2. Modify the *index.md* file to include a link to your preferred website
-3. Add and commit your changes to *file index.md* to your local index
-4. Push the changes to the original *git* repo hosted by *Github*
+1. Clone this repository to you local machine.
+2. Modify the *index.md* file to include a link to your preferred website (remember to stick to the [markdown](https://guides.github.com/features/mastering-markdown/) sysntax for this step).
+3. Add and commit your changes to *file index.md* to your local index.
+4. Push the changes to the original *git* repo hosted by *Github*.
 
 
 ### Submission:
@@ -27,7 +27,8 @@ In addition to modifying this repo to add a link to your website of preference, 
 
 
 ### Contributions:
-Add a link to your website of choice by following the _markdown_ sysntax.
+Add a link to your website of choice by following the [markdown](https://guides.github.com/features/mastering-markdown/) sysntax.
+
 [gtorres](https://people.clarkson.edu/~ee462){:target="_blank"} 
 
 
