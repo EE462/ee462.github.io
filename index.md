@@ -4,7 +4,7 @@
 
 
 ## Lab 7 - Introduction to version control using git & Github
-For this lab you will add some simple changes to this git repository (https://github.com/ee462/ee462.github.io.git).
+For this lab you will add some simple changes to this git repository ([https://github.com/ee462/ee462.github.io.git](https://github.com/ee462/ee462.github.io.git)).
 The changes consists of adding a link to a website of your preference. Your entry will be added to the **Contributions** section at the end of this page.
 
 You must follow the Github [Markdown](https://guides.github.com/features/mastering-markdown/){:target="_blank"} syntax when adding your changes.
