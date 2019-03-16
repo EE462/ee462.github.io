@@ -21,8 +21,8 @@ This lab will be due on Wednesday March 27 at 11:59pm.
 * git installed in you Linux machine [tutorial](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 ### Create a Github account:
-In order for you to be able to add changes to this repository, you must have a github account so you can be added as a collaborator. If you don't currently have a github account, please create one.
-**Once created, please send me an email with the username you used so you can be added as a collaborator for this repo.** 
+In order for you to make changes to this repository, you must have a github account and be added as a collaborator. If you don't currently have a github account, please create one.
+**Once created, please send me an email specifying your Github username so you can be added as a collaborator for this repo.** 
 
 ### What to do:
 For this lab, you must complete the following steps using the command line:
