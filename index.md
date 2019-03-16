@@ -3,7 +3,7 @@
 
 
 
-# Lab 7 - Introduction to version control using git & Github
+## Lab 7 - Introduction to version control using git & Github
 For this lab you will add some simple changes to this git repository (https://github.com/ee462/ee462.github.io.git).
 The changes consists of adding a link to a website of your preference. Your entry will be added to the **Contributions** section at the end of this page.
 
@@ -13,7 +13,7 @@ Although you can link to any website that you like, you are encouraged to add a 
 * [github pages](https://pages.github.com/){:target="_blank"}
 * Clarkson's own web hosting services. This is automaticaly enabled by placing your webpage files (i.e. _index.html_) in you *public_html* directory inside your polaris home directory.
 
-## What you need:
+### What you need:
 * Create a Github account using your Clarkson email.
 * git installed in you Linux machine [tutorial](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
