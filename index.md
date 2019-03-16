@@ -7,6 +7,10 @@
 For this lab you will add some simple changes to this git repository (https://github.com/ee462/ee462.github.io.git).
 The changes consists of adding a link to a website of your preference. Your entry will be added to the **Contributions** section at the end of this page.
 
+#### What you need:
+* Create a Github account using your Clarkson email.
+* git installed in you Linux machine [tutorial](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
 You must follow the Github [Markdown](https://guides.github.com/features/mastering-markdown/){:target="_blank"} syntax when adding your changes.
 
 Although you can link to any website that you like, you are encouraged to add a link to your personal website. If you don't have one, maybe it's time for you to create one! Take advantage of: 
