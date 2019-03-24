@@ -50,3 +50,5 @@ greenad: [my_web_site](https://people.clarkson.edu/~greenad/)
 romleiaj: [Final Exam](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 
 lyonsn: [Go Buffalo](https://www.barstoolsports.com/draft_josh_allen/)
+ 
+gothamcb: [Possible Lab Extension](https://www.youtube.com/watch?v=y6120QOlsfU)
