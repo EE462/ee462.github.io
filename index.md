@@ -52,3 +52,5 @@ romleiaj: [Final Exam](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 lyonsn: [Go Buffalo](https://www.barstoolsports.com/draft_josh_allen/)
  
 gothamcb: [Possible Lab Extension](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+macolli: [Jurassic Park Theme Cover](https://youtu.be/GI_P3UtZXAA)
