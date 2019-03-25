@@ -58,3 +58,5 @@ macolli: [Jurassic Park Theme Cover](https://youtu.be/GI_P3UtZXAA)
 tungr: [Baby Shark Remix](https://www.youtube.com/watch?v=NEos1DFp5sw)
 
 haydenjd: [Lab7 Website](http://people.clarkson.edu/~haydenjd)
+
+sheridbg: [Lab 7](https://www.youtube.com/watch?v=KlLMlJ2tDkg)
