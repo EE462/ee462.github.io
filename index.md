@@ -49,4 +49,12 @@ greenad: [my_web_site](https://people.clarkson.edu/~greenad/)
 
 romleiaj: [Final Exam](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 
+<<<<<<< HEAD
 tungr: [Baby Shark Remix](https://www.youtube.com/watch?v=NEos1DFp5sw)
+=======
+lyonsn: [Go Buffalo](https://www.barstoolsports.com/draft_josh_allen/)
+ 
+gothamcb: [Possible Lab Extension](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+macolli: [Jurassic Park Theme Cover](https://youtu.be/GI_P3UtZXAA)
+>>>>>>> 41551412be5fadfe2ab866ceff1db0dadb95fb9e
