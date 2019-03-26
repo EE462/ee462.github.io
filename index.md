@@ -59,4 +59,10 @@ tungr: [Baby Shark Remix](https://www.youtube.com/watch?v=NEos1DFp5sw)
 
 haydenjd: [Lab7 Website](http://people.clarkson.edu/~haydenjd)
 
+<<<<<<< HEAD
 kuhnsrc: [Random Wikipedia](https://en.wikipedia.org/wiki/Special:Random)
+=======
+sheridbg: [Lab 7](https://www.youtube.com/watch?v=KlLMlJ2tDkg)
+
+wilsontar: [Sub to PewDiePie](https://www.youtube.com/watch?v=6Dh-RL__uN4)
+>>>>>>> e7d9aa27226e2492ff6d832938355ba15d7c1bb1
