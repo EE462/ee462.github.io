@@ -89,5 +89,5 @@ thwilli: [Hey](https://www.youtube.com/watch?v=ZZ5LpwO-An4)
 
 warner: [NEW LOGIC](https://youtu.be/n7qCZe-VxUA)
 
-teeterem: [CATS](http://www.vetstreet.com/cats/)
+teeterem: [CATS](https://www.vetstreet.com/cats/)
 
