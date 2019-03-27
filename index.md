@@ -75,5 +75,5 @@ woralec: [Diagram tool](https://www.draw.io)
 
 cutugnma: [Bone Fish Grill](https://www.bonefishgrill.com/)
 
-pkelley: [roadmap to a sucesfull government] (https://www.donaldjtrump.com/get-involved/)
+pkelley: [roadmap to a sucesfull government](https://www.donaldjtrump.com/get-involved/)
 
