@@ -86,3 +86,5 @@ grahamj: [Duck Song](https://www.youtube.com/watch?v=MtN1YnoL46Q)
 armasat: [Sample Login](https://people.clarkson.edu/~armasat/altLogin.html)
 
 thwilli: [Hey](https://www.youtube.com/watch?v=ZZ5LpwO-An4)
+
+warner: [NEW LOGIC](https://youtu.be/n7qCZe-VxUA)
