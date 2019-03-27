@@ -71,4 +71,6 @@ malenfc: [WIN A FREE TRIP TO MASSENA!!!](https://www.youtube.com/watch?v=dQw4w9W
 
 godfroj: [Lab 7 Polaris Link](https://people.clarkson.edu/~godfroj/)
 
+woralec: [Diagram tool](https://www.draw.io)
+
 cutugnma: [Bone Fish Grill](https://www.bonefishgrill.com/)
