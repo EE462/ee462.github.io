@@ -80,3 +80,5 @@ pkelley: [roadmap to a sucesfull government](https://www.donaldjtrump.com/get-in
 narodk: [ECAC CHAMPS](https://www.ecachockey.com/men/2018-19/Game_Stories/20190323_-_Clarkson_vs._Cornell)
 
 clarkji: [The Truth](http://timecube.2enp.com/)
+
+grahamj: [Duck Song](https://www.youtube.com/watch?v=MtN1YnoL46Q)
