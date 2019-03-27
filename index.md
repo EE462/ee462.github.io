@@ -69,4 +69,6 @@ colluml: [You're welcome](https://youtu.be/IxEIQQkhyeI)
 
 malenfc: [WIN A FREE TRIP TO MASSENA!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+godfroj: [Lab 7 Polaris Link](https://people.clarkson.edu/~godfroj/)
+
 cutugnma: [Bone Fish Grill](https://www.bonefishgrill.com/)
