@@ -102,3 +102,5 @@ kleebm: [How to drive](https://www.youtube.com/watch?v=6oymx7wBmjw)
 kliner: [Howdy](https://imgur.com/gallery/ZHJQ94p)
 
 snyderkm: [cool math games](https://www.coolmathgames.com/)
+
+gannonrc: [Hello There](https://www.youtube.com/watch?v=zXuV8zoOOYo)
