@@ -100,3 +100,5 @@ farleicj: [Click for free tuition](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 kleebm: [How to drive](https://www.youtube.com/watch?v=6oymx7wBmjw)
 
 kliner: [Howdy](https://imgur.com/gallery/ZHJQ94p)
+
+snyderkm: [cool math games](https://www.coolmathgames.com/)
