@@ -109,4 +109,7 @@ gannonrc: [Hello There](https://www.youtube.com/watch?v=zXuV8zoOOYo)
 
 antonusp: [2 Player Pong Game](https://people.clarkson.edu/~antonusp/graphics/)
 
+anthonjt: [anthonjt](https://people.clarkson.edu/~anthonjt)
+
 ngotk: [kanye west](www.kanyezone.com)
+
